@@ -60,3 +60,9 @@ This task can be applied in many practical ways:
 - This task really highlighted how useful APIs are for accessing real-time information and showed that visualization can turn raw data into something actionable.
 
 To sum it up, API INTEGRATION AND DATA VISUALIZATION illustrated how easily APIs can connect with Python for data collection and visualization. The tools and methods I used are flexible and can be adapted to many other areas that require real-time data analysis and presentation.
+
+*OUTPUT 1*
+![Image](https://github.com/user-attachments/assets/898e15cb-07b5-4609-a4ce-b89452c75d93)
+
+*OUTPUT 2*
+![Image](https://github.com/user-attachments/assets/19961df8-577c-4787-85ae-ccfab6032dbb)
